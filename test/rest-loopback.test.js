@@ -7,7 +7,7 @@
 
 var assert = require('assert');
 
-var DataSource = require('loopback-datasource-juggler').DataSource;
+var DataSource = require('@tispr/loopback-datasource-juggler').DataSource;
 var ds, User;
 
 describe('REST connector', function() {

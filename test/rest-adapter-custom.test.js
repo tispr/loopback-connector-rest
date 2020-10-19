@@ -8,7 +8,7 @@
 var assert = require('assert');
 var should = require('should');
 
-var DataSource = require('loopback-datasource-juggler').DataSource;
+var DataSource = require('@tispr/loopback-datasource-juggler').DataSource;
 
 var TEST_ADDRESS = /Bedford Ave.*, Brooklyn, NY 11211, USA/;
 
