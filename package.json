@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector-rest",
+  "name": "@tispr/loopback-connector-rest",
   "version": "3.7.0",
   "description": "Loopback REST Connector",
   "engines": {
@@ -36,14 +36,14 @@
     "eslint-config-loopback": "^10.0.0",
     "eslint-plugin-mocha": "^4.12.1",
     "express": "^4.12.0",
-    "loopback-datasource-juggler": "^3.0.0",
+    "@tispr/loopback-datasource-juggler": "^4.0.0",
     "mocha": "^5.2.0",
     "multer": "^1.3.1",
     "should": "^13.2.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/loopback-connector-rest.git"
+    "url": "https://github.com/tispr/loopback-connector-rest.git"
   },
   "license": "MIT",
   "author": "IBM Corp."
